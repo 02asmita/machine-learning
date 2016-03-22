@@ -168,7 +168,7 @@
 
 ---
 
-## [http://bit.do/priceonion](http://bit.do/priceonion)
+### [https://github.com/amitkaps/machine-learning](https://github.com/amitkaps/machine-learning)
 
 ---
 
@@ -314,9 +314,6 @@
 
 ![](img/numbers.jpg)
 # Thank you
-### [unnati.xyz/workshop-feedback](http://unnati.xyz/workshop-feedback)
+# @amitkaps | @bargava
 
 ---
-
-![fit 80%](img/unnati.png)
-![fit 200%](img/hasgeek.png)
