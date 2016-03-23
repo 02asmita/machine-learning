@@ -167,8 +167,42 @@
 # Enjoy the workshop
 
 ---
-
+ 
+# Github Repo 
 ### [https://github.com/amitkaps/machine-learning](https://github.com/amitkaps/machine-learning)
+
+---
+
+# Exercise
+
+---
+
+# 1. Time Series Exercise
+
+### "Predict the number of tickets that will be raised in the next week"
+
+- **Frame**: What to forecast? At what horizon? At what level?
+- **Acquire, Refine, Explore**: Do EDA to understand the trend and pattern within the data
+- **Models**: Mean Model, Linear Trend, Random Walk, Simple Moving Average, Exp Smoothing, Decomposition, ARIMA
+- **Insight**: Share the insight through a datavis of the models
+
+---
+
+# 2. Text Analytics Exercise
+
+### "Identify the entity, features and topics in the 'Comments Data' or "Twitter Data" within your text data"
+
+- **Frame**: What are the comments you are trying to understand? 
+- **Acquire, Refine, Explore**: Do Wordcloud, Lemmatization, Part of Speech Analysis, and Entity Chunking
+- **Models**: TF-IDF, Topic Modelling, Sentiment Analysis
+- **Insight**: Share the insight through word cloud and topic  visualisation
+
+---
+
+# Feedback
+
+### [https://amitkaps.typeform.com/to/i6wl2E](https://amitkaps.typeform.com/to/i6wl2E)
+
 
 ---
 
@@ -194,7 +228,7 @@
 # Acquire
 - **Scraping** (structured, unstructured)
 - **Files** (csv, xls, json, xml, pdf, ...)
-- **Database** (sqlite, ...)
+- Database (sqlite, ...)
 - APIs 
 - Streaming
 
@@ -203,7 +237,7 @@
 ![](img/refine.jpg)
 # Refine
 - Data Cleaning (inconsistent, missing, ...)
-- Data Refining (derive, parse, merge, filter, convert, ...)
+- **Data Refining** (derive, parse, merge, filter, convert, ...)
 - **Data Transformations** (group by, pivot, aggregate, sample, summarise, ...)
 
 
@@ -221,8 +255,8 @@
 
 ![](img/model.jpg)
 # Model - Supervised Learning 
-- *Continuous*: Regression - **Linear**, Polynomial, Tree Based Methods - CART, Random Forest, Gradient Boosting Machines
-- *Classification* - **Logistics Regression**, Tree, KNN, SVM, Naive-Bayes. Bayesian Network
+- *Continuous*: Regression - **Linear**, Polynomial, Tree Based Methods - CART, **Random Forest**, Gradient Boosting Machines
+- *Classification* - **Logistics Regression**, Tree, KNN, SVM, Naive-Bayes, Bayesian Network
 
 ---
 
@@ -234,13 +268,19 @@
 ---
 
 ![](img/model.jpg)
-# Model - Advanced / Specialized
+# Model - Advanced /
+- **Time Series**
+- **Text Analytics**
 - Network / Graph Analytics
 - Optimization
+
+---
+![](img/model.jpg)
+# Model - Specialized
 - Reinforcement Learning
 - Online Learning
 - Deep Learning
-- Applications: Time Series, Text, Image, Speech 
+- Other Applications: Image, Speech 
 
 
 ---
@@ -286,34 +326,40 @@
 ![fit](img/thinkstats.jpg)
 
 ---
+
+![left](img/ISLR.jpeg)
+## Resources - Statistical Learning
+- One of the good books on statistical learning is ISLR -> [An Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/index.html)
+- You can find all the ISLR code in python at this github repo - [https://github.com/JWarmenhoven/ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
+
+---
+
+## Resources - Time Series
+- [Forecasting: Principle and Text](https://www.otexts.org/fpp)
+- [Statistical forecasting: Notes on regression and time series analysis Case](http://people.duke.edu/~rnau/411home.htm)
+
+## Resources - Text Analytics
+- [Natural Language Processing with Python](http://www.nltk.org/book/)
+
+
+---
 ![](img/stars.jpg)
 # Online Course
-- Harvard Data Science Course - [CS 109 Course](http://cs109.github.io/2015/)
-- Structured in similar way to the approach we shared
+- Harvard Data Science Course - [CS 109 Course](http://cs109.github.io/2015/) (It is structured in similar way to the approach we shared)
+- Data Science Specialisation - [JHU Data Science](https://www.coursera.org/specializations/jhu-data-science) (It is a good course, though the material is coded in R)
 <br>
 - Many more on Coursera & Udacity...
 
 
-
 ---
 ![](img/workshop.jpg)
-# Upcoming Workshops
-- Advanced Data Science (Machine Learning, Statistics)
-- Data Science at Scale (Spark)
-- Visualisation (Multi-Dimensional, Geographic, Large Data)
-- Deep Learning (Text, Speech, Image, Video)
 
 ---
 ![](img/speak.jpeg)
 # Speak to Us!
-<br>
-## Custom Workshops
-## Data Science Consulting
 
 ---
 
 ![](img/numbers.jpg)
 # Thank you
-# @amitkaps | @bargava
-
----
+## @amitkaps | @bargava

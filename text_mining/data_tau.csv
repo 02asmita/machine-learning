@@ -1,10 +1,10 @@
 title,date
-"An Exploration of R, Yelp, and the Search for Good Indian Food",5 points by Rogerh91 4 hours ago  | discuss
-Spark Pipelines: Elegant Yet Powerful,3 points by aouyang1 8 hours ago  | discuss
-Deep Advances in Generative Modeling,7 points by gwulfs 14 hours ago  | 1 comment
-Shit VCs Say,3 points by Argentum01 9 hours ago  | discuss
-"Python, Machine Learning, and Language Wars",4 points by pmigdal 16 hours ago  | discuss
-A Neural Network in 11 lines of Python ,3 points by dekhtiar 13 hours ago  | discuss
+"An Exploration of R, Yelp, and the Search for Good Indian Food",5 points by Rogerh91 6 hours ago  | discuss
+Deep Advances in Generative Modeling,7 points by gwulfs 15 hours ago  | 1 comment
+Spark Pipelines: Elegant Yet Powerful,3 points by aouyang1 9 hours ago  | discuss
+Shit VCs Say,3 points by Argentum01 10 hours ago  | discuss
+"Python, Machine Learning, and Language Wars",4 points by pmigdal 17 hours ago  | discuss
+A Neural Network in 11 lines of Python ,3 points by dekhtiar 14 hours ago  | discuss
 Markov Chains Explained Visually,13 points by zeroviscosity 1 day ago  | 1 comment
 Dplython: Dplyr for Python,13 points by thenaturalist 1 day ago  | 3 comments
 Inferring causal impact using Bayesian structural time-series models,8 points by Homunculiheaded 1 day ago  | 1 comment
@@ -36,9 +36,9 @@ Introduction to Scikit Flow -  Simplified Interface to TensorFlow,8 points by le
 How to learn machine learning?,8 points by kiechu 8 days ago  | 1 comment
 The Deep Roots of Javascript Fatigue,5 points by nikkielizdemere 6 days ago  | 1 comment
 How do we make Data Tau work?,27 points by hal8 9 days ago  | 18 comments
-[Ask DT] What are some rookie mistakes in R?,3 points by HKtemp 3 days ago  | discuss
 "Machine Learning: An In-Depth, Non-Technical Guide — Part 4",7 points by innoarchitech 8 days ago  | discuss
 Data Science Slack channel - Click for invite,7 points by jyotsna 8 days ago  | discuss
+[Ask DT] What are some rookie mistakes in R?,3 points by HKtemp 3 days ago  | discuss
 "Playing ""Moneyball"" on EA FIFA 16",16 points by aabb13 13 days ago  | 3 comments
 Intellexer - Natural Language Processing and Text Mining REST API,16 points by j_downer 13 days ago  | discuss
 Descriptive Statistics in SQL,5 points by nickhould 7 days ago  | discuss
@@ -46,9 +46,9 @@ Genomic Data Visualization using Python,2 points by RadhouaneAniba 4 days ago  |
 How to Use Cohort Data to Analyze User Behavior,2 points by clevertap 4 days ago  | discuss
 Making transparent how variations in analytical choices affect results,4 points by rahmaniacc 7 days ago  | discuss
 Show DT: Datasets.co - An easy way to share and discover ml datasets,2 points by mrborgen86 4 days ago  | discuss
+Is Scala a better choice than Python for Apache Spark?,7 points by srinify 10 days ago  | 1 comment
+Julia: A Fast Language for Numerical Computing,7 points by srinify 10 days ago  | 1 comment
 "An Ode To The Rice Cooker, The Smartest Kitchen Appliance I’ve Ever Owned",2 points by tfturing 4 days ago  | discuss
-Is Scala a better choice than Python for Apache Spark?,7 points by srinify 9 days ago  | 1 comment
-Julia: A Fast Language for Numerical Computing,7 points by srinify 9 days ago  | 1 comment
 Computing Classification Evaluation Metrics in R,4 points by lefish 7 days ago  | discuss
 Analyzing Golden State Warriors' passing network using GraphFrames in Spark,3 points by yukiegosapporo 6 days ago  | discuss
 Megaman: Manifold Learning with Millions of points,4 points by dperry 8 days ago  | 3 comments
@@ -151,8 +151,8 @@ How to Code and Understand DeepMind's Neural Stack Machine (in Python),2 points 
 How to make polished Jupyter presentations with optional code visibility,9 points by csaid81 36 days ago  | discuss
 How to become a Bayesian in eight easy steps,17 points by EtzA 44 days ago  | 1 comment
 Optimizing .*:  Details of Vectorization and Metaprogramming in Julia,4 points by randyzwitch 29 days ago  | discuss
-IBM certified Apache Spark Online Training,8 points by divya_jain 35 days ago  | discuss
-Geographic Data Science course,2 points by rk 24 days ago  | discuss
+IBM certified Apache Spark Online Training,8 points by divya_jain 36 days ago  | discuss
+Geographic Data Science course,2 points by rk 25 days ago  | discuss
 "The Daily Mail Stole My Visualization, Twice",5 points by thehoff 32 days ago  | 1 comment
 Ensemble Methods: Improved Machine Learning Results,9 points by PyBloggers 38 days ago  | discuss
 Apache Spark and unsupervised learning in security,2 points by gradientflow 26 days ago  | discuss
@@ -170,10 +170,10 @@ Auto-scaling scikit-learn with Spark,11 points by falaki 43 days ago  | discuss
 Where the f*** can I park?,2 points by manugarri 29 days ago  | discuss
 "Machine Learning: An In-Depth, Non-Technical Guide - Part 2",5 points by innoarchitech 36 days ago  | discuss
 Webhose.io now offers a historical data archive,7 points by databuffer 40 days ago  | discuss
-Meetup: Introduction to Machine Learning Algorithms for Data Science.,4 points by ann928 35 days ago  | discuss
+Meetup: Introduction to Machine Learning Algorithms for Data Science.,4 points by ann928 36 days ago  | discuss
 Exploring the Limits of Language Modeling,8 points by soates 42 days ago  | discuss
 Text Mining South Park,7 points by pmigdal 41 days ago  | discuss
-Finding the K in K-means by Parametric Bootstrap,7 points by jmount 41 days ago  | 1 comment
+Finding the K in K-means by Parametric Bootstrap,7 points by jmount 42 days ago  | 1 comment
 Getting Started with Statistics for Data Science,3 points by nickhould 35 days ago  | discuss
 Rodeo 1.3 - Tab-completion for docstrings,3 points by glamp 35 days ago  | discuss
 Teaching D3.js - links,3 points by pmigdal 35 days ago  | discuss

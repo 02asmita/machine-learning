@@ -2,6 +2,7 @@
 Workshop material for Machine Learning in Python
 by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://twitter.com/bargava)
 
+0. [Overview](/overview.pdf)
 
 1. [Time Series](/time_series) *(8 hours, Datasets - Onion)*
 	- Linear Trend Model
