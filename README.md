@@ -4,32 +4,33 @@ by [Amit Kapoor](http://twitter.com/amitkaps) and [Bargava Subramanian](http://t
 
 0. [Overview](/overview.pdf)
 
-1. [Time Series](/time_series) *(8 hours, Datasets - Onion)*
+1. [Time Series](/time_series) *(8 hours, Case - Peeling the Onion)*
 	- Linear Trend Model
+	- Random Walk
+	- Moving Average
 	- Exponential Smoothing
+	- Decomposition
 	- ARIMA Models
 	- Tweaking Model Parameters
-	- Time series modeling with Regressors
 
-2. [Association Rule Mining](/cf_mba) *(4 hours, Dataset - Grocery)*
+2. [Association Rule Mining](/cf_mba) *(4 hours, Case - Grocery)*
 	- Apriori Algorithm
 	- Market Basket Analysis
 
-3. [Random Forest / Gradient Boosting](/RF_GBM) *(4 hours, Dataset - UCI)*
+3. [Random Forest / Gradient Boosting](/RF_GBM) *(4 hours, Case - Bank Marketing)*
 	- Intro to Ensemble Models, Bagging and Boosting
 	- Gradient Boosting Classifier & Regressor
 	- Random Forest Classifier & Regressor
 	- Tuning Model Parameters
 
-4. [Text Mining](/text_mining) *(6 hours, Dataset - DataTau and Twitter)*
+4. [Text Mining](/text_mining) *(6 hours, Case - DataTau)*
 	- Regular Expression
 	- Stopword Removal, Stemming
 	- Word Cloud
 	- Creating features from text
 	- Term Frequency and Inverse Document Frequency (TF-IDF)
-	- Sentiment Analysis
 	- Topic Modeling - Latent Dirichlet Allocation (LDA)
-
+	- Sentiment Analysis
 
 
 ###Script to check if requisite libraries for the workshop are present
