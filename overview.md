@@ -168,7 +168,7 @@
 
 ---
  
-# Github Repo 
+## Workshop Material is available at the Github Repo 
 ### [https://github.com/amitkaps/machine-learning](https://github.com/amitkaps/machine-learning)
 
 ---
@@ -190,7 +190,7 @@
 
 # 2. Text Analytics Exercise
 
-### "Identify the entity, features and topics in the 'Comments Data' or "Twitter Data" within your text data"
+### "Identify the entity, features & topics in the 'Comments' data or 'Twitter #machine learning' data"
 
 - **Frame**: What are the comments you are trying to understand? 
 - **Acquire, Refine, Explore**: Do Wordcloud, Lemmatization, Part of Speech Analysis, and Entity Chunking
@@ -353,6 +353,7 @@
 
 ---
 ![](img/workshop.jpg)
+# We enjoyed the workshop!
 
 ---
 ![](img/speak.jpeg)
